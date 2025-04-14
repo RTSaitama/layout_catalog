@@ -1,7 +1,7 @@
 .catalog {
-  // grid-template-columns: repeat(1, 200px);
+  grid-template-columns: repeat(1, 200px);
+  display: grid;
   grid-template-rows: 2, 1fr;
-  grid-template-columns: a;
 }
 
 @media (min-width: 488px) {
